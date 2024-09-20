@@ -1,4 +1,4 @@
-# calculate factorial of a number:
+# calculate factorial of a number :
 
 def factorial(n):
     fact = 1
