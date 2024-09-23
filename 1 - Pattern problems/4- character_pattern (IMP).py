@@ -8,7 +8,7 @@ G H I J
 ord('A') converts the character 'A' to its ASCII value (65).
 chr(char) converts the ASCII value back to the corresponding character.
 Each time, we increment the char value by 1 to get the next character in the alphabet.
-"""
+ adhbd"""
 
 def char_pattern(n):
     char = ord('A')
