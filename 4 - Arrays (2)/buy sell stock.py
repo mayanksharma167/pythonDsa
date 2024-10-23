@@ -1,3 +1,4 @@
+#buy and sell stocks
 stocks_prices = [7,1,5,3,6,4]
 
 def buy_sell_stock(prices):
