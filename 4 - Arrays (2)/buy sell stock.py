@@ -9,6 +9,7 @@ def buy_sell_stock(prices):
         if buy_price < prices[i]:
             profit = prices[i] - buy_price
             max_profit = max(max_profit,profit)
+        # CASE 2:
         else:
             buy_price = prices[i]
 
